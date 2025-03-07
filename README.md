@@ -16,7 +16,6 @@ I'm currently taking courses on AI , Machine learning and programming
 [![](https://visitcount.itsvg.in/api?id=safams23&icon=9&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 
 
