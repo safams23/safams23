@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently taking courses on AI , Machine learning and programming 
+Im passionate about learning programming and AI and applying them to create new ideas .
+Currently self studying python to improve my programming skills .
 
 
 ## 🌐 Socials:
@@ -20,7 +21,7 @@ I'm currently taking courses on AI , Machine learning and programming
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/safams23/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/safams23/safams23/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/safams23/safams23/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/safams23/safams23/output/github-snake.svg" />
 </picture>
