@@ -1,6 +1,6 @@
 # 💫 About Me:
 Im passionate about learning programming and AI and applying them to create new ideas .
-Currently self studying python to improve my programming skills .
+Currently self studying python and doing cs50 course to improve my programming skills .
 
 
 ## 🌐 Socials:
