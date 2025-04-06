@@ -1,4 +1,4 @@
-# 💾✨ About Safa
+# About Safa 💾✨ :
 Im passionate about learning programming and AI and applying them to create new ideas .
 Im creative , curious and currently self studying .
 
